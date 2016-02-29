@@ -18,4 +18,12 @@ public class Calculator {
         // TODO code application logic here
     }
     
+    public int calc(Operation op, int x, int y) {
+        return x;
+    }
+    
+    public int perform(int x,y){
+        return x;
+    }
+    
 }

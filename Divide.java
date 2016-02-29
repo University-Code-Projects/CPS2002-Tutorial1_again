@@ -1,5 +1,5 @@
-class Divide{
+public int Divide(int x, y){
+	 
+	return x/y;
 
-System.out.println("TERGAX ELISE"); 
-	
 }

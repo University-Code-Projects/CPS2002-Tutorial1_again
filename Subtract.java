@@ -9,6 +9,13 @@ package calculator;
  *
  * @author userElise
  */
-public class Subtract {
-    return x - y;
+public class Subtract implements Operation{
+    
+    public int perform(int x, int y){
+        return x - y;
+    }
+    
+    public String getDesc(){
+        return ("Subtract");
+    }
 }

@@ -22,8 +22,4 @@ public class Calculator {
         return x;
     }
     
-    public int perform(int x,y){
-        return x;
-    }
-    
 }

@@ -1,4 +1,8 @@
 
 package calculator;
 
-public class Operation{}
+public interface Operation{
+
+    public int perform(int x,int y);
+    
+}

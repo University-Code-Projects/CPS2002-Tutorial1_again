@@ -10,5 +10,5 @@ package calculator;
  * @author userElise
  */
 public class Subtract {
-    
+    return x - y;
 }
